@@ -1,2 +1,4 @@
 # iPortfolio
- Personal Portfolio Site Layout
+Aldrin Brillante's PM Portfolio
+
+Available Now [https://aldrinbrillante.github.io/iPortfolio/index.html]
